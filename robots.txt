@@ -1,2 +1,2 @@
-er-agent: *
+User-agent: *
 Disallow: /toolbox/parts/
