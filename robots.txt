@@ -1,2 +1,4 @@
 User-agent: *
-Disallow: /toolbox/parts/
+Allow: /
+
+Sitemap: https://cyberzhg.github.io/sitemap.xml
